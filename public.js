@@ -1,6 +1,4 @@
-/**
- * Created by liu on 2016/7/9.
- */
+
 $(function(){
         $('.box').mouseenter(function(){
             var x =  $(this).position().left
